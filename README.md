@@ -1,5 +1,12 @@
 # Uber-Eats-College
 
-Presentations:
-[Sprint I](https://docs.google.com/presentation/d/1_Yk92O0igap_3WxD2dDLHVLYg6Z7rVb3AG_SvwMbyoA/edit)<br/>
-[Technical One Pager](https://docs.google.com/document/d/1PCfqDkR4mLwMmui9bApEpEeZ_Y5Es0b4wv_XquW19Es/edit?usp=sharing)
+
+[Environment set up]
+Python 3
+Google Map Api:
+- Key can be requested at: https://developers.google.com/maps/documentation/distance-matrix/start
+Yelp Api: 
+- pip install yelpapi
+- Key can be requested at: https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app
+
+[Final Presentations](https://docs.google.com/presentation/d/1_DcKdw_z8YStKGYHS71-Bi1q-G9MKh8Vr6izDp3vrCk/edit?usp=sharing)<br/>
