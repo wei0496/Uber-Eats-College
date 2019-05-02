@@ -1,11 +1,11 @@
-# Uber-Eats-College
+# Uber-Eats-College #
 
 
-[Environment set up]
-Python 3
-Google Map Api:
+## Environment set up ##
+#### Python 3 ####
+#### Google Map Api ####
 - Key can be requested at: https://developers.google.com/maps/documentation/distance-matrix/start
-Yelp Api: 
+#### Yelp Api #### 
 - pip install yelpapi
 - Key can be requested at: https://www.yelp.com/login?return_url=%2Fdevelopers%2Fv3%2Fmanage_app
 
